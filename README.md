@@ -23,6 +23,6 @@ Luego, se volvió a disminuir el radio, esta vez dejandolo en 1 cm, y este no cu
 
 ![](Imagenes/Diseño_R1.png)
 
-Finalmente, llegamos a que al aumentar el radio a 2 cm, el diseño si cumplia con ambos casos.
+Finalmente, llegamos a que al aumentar el radio a 2 cm, el diseño si cumplia con ambos casos. Con propiedades props = [2 cm, 1 mm, 200 GPa, 7600 kg/m^3, 420 MPa]
 
 ![](Imagenes/Diseño_R2.png)
