@@ -11,7 +11,7 @@ En segundo lugar, se realizo el siguiente diseño:
 
 ![](Imagenes/Diseño2.png)
 
-El cual es un puente con perfil cajon. Inicialmente, el diseño se realizó con un radio igual a 8 cm y un espesor de 5 mm, cumpliendo con ambos casos.
+El cual es un puente con perfil cajon. Inicialmente, el diseño se realizó con un radio igual a 8 cm y un espesor de 5 mm, cumpliendo con ambos casos. En donde las propiedades por barra fueron props = [8 cm, 5 mm, 200 GPa, 7600 kg/m^3, 420 MPa], las cuales luego de hacer las simulaciones nos dimos cuenta de que estaban sobredimensionadas.
 
 ![](Imagenes/Diseño_R8.png)
 
@@ -19,7 +19,7 @@ Para optimizar el peso, se disminuyó el radio a 4 cm y el espesor a 1 mm, volvi
 
 ![](Imagenes/Diseño_R4.png)
 
-Luego, se volvió a disminuir el radio, esta vez dejandolo en 1 cm, y este no cumplió con el caso 2.
+Luego, se volvió a disminuir el radio, esta vez dejandolo en 1 cm, y este no cumplió con el caso 2. De acuerdo a esto el diseño estaba sub dimensionado.
 
 ![](Imagenes/Diseño_R1.png)
 
